@@ -1,6 +1,0 @@
-﻿编号`名字`类型`预设`移动速度`技能ID`攻击力`攻击范围
-id`name`type`prefab`speed`skillID`damage`attackRange
-int`string`int`string`float`int`float`3
-10001`qishi`1`Knight`5`10001`5`2
-10002`lanni`1`Slime`5`10002`6`3
-10003`meizi`1`Belle`8`10003`8`3

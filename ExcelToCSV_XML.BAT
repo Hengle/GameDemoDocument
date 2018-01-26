@@ -6,15 +6,15 @@ REM set exepath="%curdir%EXE\ReadExcel.exe"
 REM set savepath="%curdir%CSV"
  
 REM EXE路径
-set exepath="G:\MyProject\GameDemoTools\ExcelToCSV_XML\ExcelToCSV_XML\ExcelToCSV_XML\bin\Debug\ExcelToCSV_XML.exe"
+set exepath="G:\MyProject\GameDemoDocument\ExcelToCSV_XML\ExcelToCSV_XML\ExcelToCSV_XML\bin\Debug\ExcelToCSV_XML.exe"
 
 
 REM 表路径
-set filepath="G:\MyProject\GameDemoTools\ExcelToCSV_XML\Table"
+set filepath="G:\MyProject\GameDemoDocument\Table"
 
 
 REM 导出路径
-set savepath="G:\MyProject\GameDemoTools\ExcelToCSV_XML\Export"
+set savepath="G:\MyProject\GameDemoDocument\Export"
 
 cd %filepath%
 

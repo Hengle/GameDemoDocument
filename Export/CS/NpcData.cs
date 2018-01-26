@@ -26,12 +26,4 @@ public class NpcData{
 	///技能ID
 	/// <summary>
 	public int skillID {get;private set;}
-	/// <summary>
-	///攻击力
-	/// <summary>
-	public float damage {get;private set;}
-	/// <summary>
-	///攻击范围
-	/// <summary>
-	public string attackRange {get;private set;}
 }

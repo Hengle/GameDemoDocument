@@ -1,0 +1,6 @@
+﻿编号`名字`攻击力`攻击范围
+id`name`damage`attackRange
+int`string`float`3
+10010`skill`5`2
+10020`skill`6`3
+10030`skill`8`3

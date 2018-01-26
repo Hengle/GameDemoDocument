@@ -1,0 +1,5 @@
+<Root>
+  <Data id="10010" name="skill" damage="5" attackRange="2" />
+  <Data id="10020" name="skill" damage="6" attackRange="3" />
+  <Data id="10030" name="skill" damage="8" attackRange="3" />
+</Root>

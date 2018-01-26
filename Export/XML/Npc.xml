@@ -1,0 +1,5 @@
+<Root>
+  <Data id="10001" name="qishi" type="1" prefab="Knight" speed="1" skillID="10001" />
+  <Data id="10010" name="lanni" type="1" prefab="Slime" speed="1" skillID="10010" />
+  <Data id="10020" name="meizi" type="1" prefab="Belle" speed="1.5" skillID="10020" />
+</Root>
