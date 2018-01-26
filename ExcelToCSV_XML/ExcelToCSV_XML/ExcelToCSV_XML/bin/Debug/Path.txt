@@ -1,0 +1,2 @@
+G:\MyProject\GameDemoTools\ExcelToCSV_XML\Table\Npc.xlsx
+G:\MyProject\GameDemoTools\ExcelToCSV_XML\Export
