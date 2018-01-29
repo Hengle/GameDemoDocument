@@ -17,5 +17,9 @@ public class SkillData{
 	/// <summary>
 	///攻击范围
 	/// <summary>
-	public string attackRange {get;private set;}
+	public float attackRange {get;private set;}
+	/// <summary>
+	///技能 CD
+	/// <summary>
+	public float coolDown {get;private set;}
 }

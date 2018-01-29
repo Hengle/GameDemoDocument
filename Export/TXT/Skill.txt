@@ -1,6 +1,6 @@
-﻿编号`名字`攻击力`攻击范围
-id`name`damage`attackRange
-int`string`float`3
-10010`skill`5`2
-10020`skill`6`3
-10030`skill`8`3
+﻿编号`名字`攻击力`攻击范围`技能 CD
+id`name`damage`attackRange`coolDown
+int`string`float`float`float
+10001`skill`5`1.5`4
+10010`skill`6`1`2
+10020`skill`8`2`1.5
