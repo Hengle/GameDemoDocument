@@ -1,6 +1,6 @@
-﻿编号`名字`类型`预设`移动速度`技能ID
-id`name`type`prefab`speed`skillID
-int`string`int`string`float`int
-10001`qishi`1`Knight`1`10001
-10010`lanni`1`Slime`1`10010
-10020`meizi`1`Belle`1.5`10020
+﻿编号`名字`类型`预设`移动速度`技能ID`血量
+id`name`type`prefab`speed`skillID`hp
+int`string`int`string`float`int`float
+10001`qishi`1`Knight`1`10001`50
+10010`lanni`1`Slime`1`10010`50
+10020`meizi`1`Belle`1.5`10020`50

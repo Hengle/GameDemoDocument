@@ -26,4 +26,8 @@ public class NpcData{
 	///技能ID
 	/// <summary>
 	public int skillID {get;private set;}
+	/// <summary>
+	///血量
+	/// <summary>
+	public float hp {get;private set;}
 }
