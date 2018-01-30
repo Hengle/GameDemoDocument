@@ -22,4 +22,8 @@ public class SkillData{
 	///技能 CD
 	/// <summary>
 	public float coolDown {get;private set;}
+	/// <summary>
+	///攻击作用类型
+	/// <summary>
+	public int attackType {get;private set;}
 }

@@ -38,4 +38,8 @@ public class NpcData{
 	///血量
 	/// <summary>
 	public float hp {get;private set;}
+	/// <summary>
+	///AI目标
+	/// <summary>
+	public int aiTarget {get;private set;}
 }
