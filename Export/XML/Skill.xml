@@ -1,5 +1,7 @@
 <Root>
-  <Data id="10001" name="skill" damage="5" attackRange="1.5" coolDown="4" />
-  <Data id="10010" name="skill" damage="6" attackRange="1" coolDown="2" />
-  <Data id="10020" name="skill" damage="8" attackRange="2" coolDown="1.5" />
+  <Data id="10001" name="skill1001" damage="5" attackRange="1.5" coolDown="6" />
+  <Data id="10010" name="skill10010" damage="6" attackRange="1" coolDown="6" />
+  <Data id="10020" name="skill10020" damage="8" attackRange="2" coolDown="7" />
+  <Data id="10021" name="skill10021" damage="8" attackRange="2" coolDown="12" />
+  <Data id="10022" name="skill10022" damage="8" attackRange="2" coolDown="19" />
 </Root>

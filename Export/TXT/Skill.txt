@@ -1,6 +1,8 @@
 ﻿编号`名字`攻击力`攻击范围`技能 CD
 id`name`damage`attackRange`coolDown
 int`string`float`float`float
-10001`skill`5`1.5`4
-10010`skill`6`1`2
-10020`skill`8`2`1.5
+10001`skill1001`5`1.5`6
+10010`skill10010`6`1`6
+10020`skill10020`8`2`7
+10021`skill10021`8`2`12
+10022`skill10022`8`2`19

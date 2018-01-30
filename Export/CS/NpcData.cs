@@ -23,9 +23,17 @@ public class NpcData{
 	/// <summary>
 	public float speed {get;private set;}
 	/// <summary>
-	///技能ID
+	///技能ID1
 	/// <summary>
 	public int skillID {get;private set;}
+	/// <summary>
+	///技能ID2
+	/// <summary>
+	public int skillID1 {get;private set;}
+	/// <summary>
+	///技能ID3
+	/// <summary>
+	public int skillID2 {get;private set;}
 	/// <summary>
 	///血量
 	/// <summary>
